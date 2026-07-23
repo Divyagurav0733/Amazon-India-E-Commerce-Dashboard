@@ -53,13 +53,6 @@ The dashboard includes the following insights:
 
 ---
 
-## Dashboard Preview
-
-<p align="center">
-  <img src="Images/AmazonDashboard.png" alt="Amazon Sales Dashboard" width="900">
-</p>
-
-
 ## Key Insights
 
 - Products with higher review counts generally maintain strong customer ratings.
